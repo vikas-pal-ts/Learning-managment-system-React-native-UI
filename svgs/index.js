@@ -1,0 +1,15 @@
+export { default as  OnBoardingSvgStep1} from "./onBoarding/OnBoardingSvgStep1";
+export { default as  OnBoardingSvgStep2} from "./onBoarding/OnBoardingSvgStep2";
+export { default as  OnBoardingSvgStep3} from "./onBoarding/OnBoardingSvgStep3";
+export { default as  LoginBanner} from "./LoginBanner";
+export { default as  SignUpBanner} from "./SignUpBanner";
+export { default as  ProfileBanner} from "./ProfileBanner";
+export { default as  SettingBanner} from "./SettingBanner";
+export { default as  CoursesTestCardsSvg1} from "./CoursesTestCardsSvg1";
+export { default as  SingleCourseSvg} from "./SingleCourseSvg";
+export { default as  CourseContentThumb} from "./CourseContentThumb";
+export { default as  CourseContentModuleThumb} from "./CourseContentModuleThumb";
+export { default as  CourseLessonBanner} from "./CourseLessonBanner";
+export { default as  VideoButtonSvg} from "./VideoButtonSvg";
+export { default as  CourseSavedTestSvg} from "./CourseSavedTestSvg";
+export { default as  CourseTestResultSvg} from "./CourseTestResultSvg";
