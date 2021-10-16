@@ -49,7 +49,7 @@ const Tab = createBottomTabNavigator();
 
 const MainTabsNavigator = () => {
     return (
-        <Tab.Navigator tabBar={props => <Tabs {...props} />}>
+        <Tab.Navigator initialRouteName="Courses" tabBar={props => <Tabs {...props} />}>
             <Tab.Screen name="Courses" component={CoursesStackScreen} options={{headerShown: false}} />
             <Tab.Screen name="Profile" component={ProfileStackScreen} options={{headerShown: false}} />
             <Tab.Screen name="Settings" component={Setting} options={{headerShown: false}} />
