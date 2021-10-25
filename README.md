@@ -1,4 +1,20 @@
 # Learning-managment-system-React-native-UI
 You can download demo apk from this link	
 https://expo.dev/artifacts/273b7236-ff9a-41a3-a008-54f973fa6a17
-![alt text](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/1.jpg)
+![lms demo gif](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/demo.gif)
+![screenshots1](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/1.jpg)
+![screenshots2](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/2.jpg)
+![screenshots3](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/3.jpg)
+![screenshots4](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/4.jpg)
+![screenshots5](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/5.jpg)
+![screenshots6](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/6.jpg)
+![screenshots7](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/7.jpg)
+![screenshots8](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/8.jpg)
+![screenshots9](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/9.jpg)
+![screenshots10](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/10.jpg)
+![screenshots11](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/11.jpg)
+![screenshots12](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/12.jpg)
+![screenshots13](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/13.jpg)
+![screenshots14](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/14.jpg)
+![screenshots15](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/15.jpg)
+![screenshots16](https://github.com/vikas-pal-ts/Learning-managment-system-React-native-UI/blob/main/assets/screenshots/16.jpg)
