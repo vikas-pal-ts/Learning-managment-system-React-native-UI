@@ -1,6 +1,5 @@
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
-import EvilIcon from './Icons/EvilIcon'
 import RingIcon from './Icons/RingIcon'
 import Heading from './Typography/Heading'
 
@@ -15,6 +14,10 @@ const Header = ({ title, pageHeaderStyle, goBack}) => {
         </View>
     </View>
     )
+}
+
+Header.defaultProps = {
+    goBack:()=>{}
 }
 
 export default Header

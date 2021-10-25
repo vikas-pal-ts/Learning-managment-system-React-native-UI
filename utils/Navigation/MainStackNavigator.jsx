@@ -5,7 +5,6 @@ import MainTabsNavigator from './MainTabsNavigator';
 import Login from '../../screens/Login';
 import SignUp from '../../screens/SignUp';
 import OnBoarding from '../../screens/onBoarding/OnBoarding';
-import Test from './Test';
 
 const Stack = createStackNavigator();
 
@@ -13,7 +12,7 @@ const MainStackNavigator = () => {
     return (
     	<Stack.Navigator initialRouteName="OnBoarding">
             <Stack.Screen name="OnBoarding" component={OnBoarding} options={{headerShown: false}} />
-            <Stack.Screen name="MainScreen" component={Test} options={{headerShown: false}} />
+            <Stack.Screen name="MainScreen" component={MainTabsNavigator} options={{headerShown: false}} />
             <Stack.Screen name="Login" component={Login} options={{headerShown: false}} />
             <Stack.Screen name="SignUp" component={SignUp} options={{headerShown: false}} />
         </Stack.Navigator>

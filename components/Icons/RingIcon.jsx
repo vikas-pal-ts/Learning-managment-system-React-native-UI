@@ -1,10 +1,8 @@
 import React from 'react'
-import { StyleSheet, Text, TouchableOpacity, View } from 'react-native'
-import Icons from '../Icons'
+import { StyleSheet, Text } from 'react-native'
 import EvilIcon from './EvilIcon'
 
 const RingIcon = ({ wrapperStyle,iconName, iconColor, iconSize, IconComponent, goBack}) => {
-    console.clear()
     return (
         <EvilIcon size={iconSize} name={iconName} color={iconColor} isClickable={true} wrapperStyle={[styles.backButtonWrapper,wrapperStyle]} IconComponent={IconComponent} goBack={goBack} />
     )
@@ -13,10 +11,10 @@ const RingIcon = ({ wrapperStyle,iconName, iconColor, iconSize, IconComponent, g
 RingIcon.defaultProps = {
     iconColor:'#3C3A36',
     iconSize:30,
-    isEvilIcon:true
+    isEvilIcon:true,
+    goBack:()=>{},
+    IconComponent:'EvilIcon'
 }
-
-export default RingIcon
 
 const styles = StyleSheet.create({
     
@@ -30,3 +28,7 @@ const styles = StyleSheet.create({
         justifyContent:'center',
     },
 })
+
+export default RingIcon
+
+
